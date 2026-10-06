@@ -1,252 +1,406 @@
 # Week 01 — Success Mindset (Mindset OS)
 
-Part of the DevOps Micro Internship (DMI) with Agentic AI
+Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
 
 ---
 
-## Task 1 — A Belief You Hold
+## Purpose (Read This First)
 
-### Question
+This week is not motivation homework.
 
-What is something you believe to be true that most people around you would disagree with?
+This is you building your **Mindset OS** — the system you will use for the next 5 months (and honestly, for years).
 
-Write at least **50 words**. Be honest, specific, and use clear professional sentences.
+### Expectations
 
-### Your Answer
+* Be honest.
+* Be specific.
+* Be practical.
+* Write like an adult professional: clear sentences, no one-liners.
 
-Add your answer here...
-
----
-
-## Task 2 — Three Objective Truths Discovered Through Experimentation
-
-Write three objective truths you discovered through your own actions and results. For each truth, include one sentence for the truth and two to four lines of evidence from your life.
-
-### Truth #1
-
-**Truth**
-
-Add your answer here...
-
-**Evidence from My Life**
-
-Add your answer here...
-
-### Truth #2
-
-**Truth**
-
-Add your answer here...
-
-**Evidence from My Life**
-
-Add your answer here...
-
-### Truth #3
-
-**Truth**
-
-Add your answer here...
-
-**Evidence from My Life**
-
-Add your answer here...
+You will reuse this in later weeks. So do it properly once.
 
 ---
 
-## Task 3 — What Does Your 2.0 Version Look Like?
+# Assignment 1. What is something you believe to be true that most people around you would disagree with?
 
-Write and publicly publish an article about your future professional self, written as if a journalist is writing about you **3–7 years from now**.
+### Rules
 
-Your article must:
+* No "safe" answers.
+* Must be your real belief (not copied from internet).
+* Minimum 50 words.
 
-* Be at least **300 words**.
-* Be written in the **past tense**, as if it has already happened.
-* Include specific proof such as projects, portfolio, GitHub, blogs, certifications, job role, leadership, or community contribution.
-* Be published on LinkedIn, Medium, WordPress, Blogspot, a personal blog, or a portfolio page.
+**Hint:** What do you believe about career, money, learning, discipline, relationships, health, success, life, tech industry, etc. that most people don't agree with?
 
-### My Article
+## Answer
 
-Paste your complete article here...
-
-### Public Article URL
-
-```text
-Paste your published article URL here...
-```
-
-### LinkedIn Post URL
-
-Create a LinkedIn post sharing your published article, then add the URL below.
-
-```text
-Paste your LinkedIn post URL here...
-```
-
-### Credit Note — DMI Self-Paced Engineer Track Students
-
-Add this credit note at the end of your public article. Replace `YOUR-GITHUB-USERNAME` with your actual GitHub username.
-
-> **P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public:** https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html **· Start your DevOps journey:** https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=self-paced
-
-`#DMIByPravinMishra`
-
-Tag [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) in your LinkedIn post.
-
-### Credit Note — DMI Campus Students
-
-Add this credit note at the end of your public article. Replace `YOUR-GITHUB-USERNAME` with your actual GitHub username.
-
-> **P.S. This post is part of the DevOps Micro Internship (DMI) — Campus — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public:** https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html **· Start your DevOps journey:** https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=campus
-
-`#DMIByPravinMishra`
-
-Tag [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) and Lead Co-Mentor [Anjana Muthunayake](https://www.linkedin.com/in/anjana-muthunayake/) in your LinkedIn post.
+I believe that having a high academic score alone is not enough to build a successful career in technology. Many people around me believe that getting good marks and completing a degree are the main indicators of career success. I believe that practical skills, consistency, problem-solving ability, and the ability to prove what I can actually build are equally important. In technology, knowledge becomes valuable when I can apply it to real problems, build projects, learn from failures, and continuously improve. A strong career is not built by studying only for examinations; it is built through continuous learning, practical experience, discipline, and the ability to adapt to changing technologies.
 
 ---
 
-## Task 4 — Reflection on Cutting Corners
+# Assignment 2. What are the top 3 objective truths you discovered through experimentation and results?
 
-### Question
+### Definition
 
-Have you ever cut corners through unethical, dishonest, or shortcut behaviour (not necessarily illegal)? If yes, how did it make you feel?
+Objective truths do not depend on opinions. They hold true regardless of how people feel.
 
-You do not need to tell the full story. Focus on the emotions you experienced. If your answer is yes, write **50–100 words**.
+Write each truth in this format:
 
-### Your Answer
+**Truth:** (1 sentence)
 
-**Yes / No:**
-
-Add your answer here...
-
-**Reflection:**
-
-Add your answer here...
+**Evidence from my life:** (2–4 lines: what you tried + what happened)
 
 ---
 
-## Task 5 — Your One-Year Non-Fiction Reading Plan
+## Truth #1
 
-List **10 non-fiction books** you plan to read during the next year. Include the title and author of each book. Books in any language are allowed.
+### Truth
 
-1. Add book title and author here...
-2. Add book title and author here...
-3. Add book title and author here...
-4. Add book title and author here...
-5. Add book title and author here...
-6. Add book title and author here...
-7. Add book title and author here...
-8. Add book title and author here...
-9. Add book title and author here...
-10. Add book title and author here...
+Consistent practice produces better results than relying on last-minute preparation.
+
+### Evidence from my life
+
+During my technical learning and preparation, I found that studying consistently helped me understand concepts more clearly than trying to learn everything at once. When I practiced regularly, especially while learning problem-solving and programming concepts, I was able to remember concepts better and approach problems with more confidence. This showed me that consistency is more effective for me than depending on last-minute effort.
 
 ---
 
-## Task 6 — Your Life and Career Metrics
+## Truth #2
 
-List the things you will measure regularly in your life and career. You only need to list the metric topics; do not include personal numbers.
+### Truth
 
-Your list must include learning or skills, output or proof, health or energy, time or focus, and money or finance.
+Practical implementation exposes gaps in my knowledge that theoretical learning alone does not reveal.
 
-### My Metrics
+### Evidence from my life
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+While working on cybersecurity and software projects, I noticed that understanding a concept theoretically was different from actually implementing it. Building features, debugging errors, connecting different components, and testing the application exposed problems that I would not have noticed by simply reading about the technology. This made practical project work an important part of my learning process.
 
 ---
 
-## Task 7 — Brain Dump and Three-Month System Plan
+## Truth #3
 
-### Step 1 — Brain Dump (Private)
+### Truth
 
-Do a private brain dump in a notebook, notes app, or document. Include everything currently on your mind, such as tasks, bills, worries, goals, pending messages, ideas, and responsibilities.
+Breaking a large goal into smaller tasks makes it easier for me to make consistent progress.
 
-**Did you create a brain dump?**
+### Evidence from my life
 
-```text
-Yes / No
-```
+I have worked on multiple technical learning goals and projects where trying to complete everything at once became difficult to manage. When I divided the work into smaller tasks, such as learning one concept, implementing one feature, testing it, and then moving to the next task, the work became more manageable. I was able to track my progress more clearly and complete tasks with less confusion.
 
-### Step 2 — My Three-Month Routine and Focus Blocks
+---
+
+# Assignment 3. What does your 2.0 version look like?
+
+### Instructions
+
+Write as if a journalist is writing about you **3 to 7 years from now** (not 20 years).
+
+**Minimum 300 words.**
+
+### Rules
+
+* Write in past tense, like it already happened.
+* Don't use "likes to / wants to / hopes to."
+* Use specifics:
+
+  * built
+  * shipped
+  * led
+  * published
+  * earned
+  * relocated
+  * contributed
+* Include skills proof:
+
+  * projects
+  * portfolios
+  * GitHub
+  * blogs
+  * certifications
+  * job role
+  * leadership
+  * community contribution
+* Add 1–3 images if you can (optional but powerful).
+
+### Publish It Publicly On Any ONE
+
+* LinkedIn
+* Medium
+* WordPress
+* Blogspot
+* Personal blog
+* Portfolio page
+
+Include this line:
+
+> **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=cohort3**
+
+## Your Article
+
+## My 2.0 Version
+
+Week 01 of my DevOps Micro Internship has been about something more fundamental than technology — mindset.
+
+This week, I reflected on the person I want to become professionally over the next few years.
+
+As a final-year ECE student moving toward the IT industry, I have realized that my growth will not come from learning everything at once. It will come from consistently building, experimenting, making mistakes, solving problems, and documenting what I learn.
+
+For this week's task, I wrote an article imagining my future professional self and the journey that led there.
+
+My focus is on becoming a strong software and DevOps professional with practical skills, a solid project portfolio, and continuous learning habits.
+
+I am also learning that progress becomes more meaningful when there is proof behind it — projects, GitHub contributions, certifications, documentation, and real problem-solving experience.
+
+Sharing my Week 01 journey as part of the DevOps Micro Internship by Pravin Mishra.
+
+Read the full article here: [PASTE ARTICLE LINK]
+
+Thank you @Pravin Mishra for creating a learning environment focused on execution and practical growth.
+
+#DMIByPravinMishra #DevOps #LearningInPublic #CareerGrowth #SoftwareEngineering #ContinuousLearning
+
+
+### Public Link
+
+Paste your link here:
+
+https://medium.com/@mounikam1522006/-3eab89ee816e?postPublishedType=initial
+
+---
+
+# Assignment 4. Have you ever cut corners (unethical / dishonest / shortcut behavior — not necessarily illegal)? If yes, how did it make you feel?
+
+### Important
+
+You don't need to write the full story.
+
+Focus on the feeling:
+
+* guilt
+* fear
+* shame
+* stress
+* regret
+* numbness
+* etc.
+
+This is about self-awareness, not judgment.
+
+### Answer Format
+
+**Yes / No**
+
+If Yes:
+
+**What emotion did you feel?** (minimum 50–100 words)
+
+## Answer
+
+There have been situations where I took a shortcut instead of putting in the amount of effort I originally planned. Even when the shortcut helped me finish the task faster, I felt that I could have done better if I had followed the proper process. The main emotions I experienced were guilt and regret because I knew that completing something quickly was not always the same as doing it properly. It also made me realize that shortcuts can sometimes create additional stress because I have to worry about the quality of my work. This experience taught me to value honesty, consistency, and proper effort, especially when the work is important for my learning or career.
+
+---
+
+# Assignment 5. What are 10 non-fiction books you plan to read in the next 1 year?
+
+### Rules
+
+* Mention **Title + Author**
+* Any language allowed
+* No fiction novels
+
+### Tip
+
+Choose books that improve:
+
+* mindset
+* communication
+* productivity
+* health
+* money
+* career
+* leadership
+
+## Book List
+
+## Book List
+
+1. Atomic Habits - James Clear
+2. Deep Work — Cal Newport
+3. The Psychology of Money — Morgan Housel
+4. The 7 Habits of Highly Effective People — Stephen R. Covey
+5. How to Win Friends and Influence People — Dale Carnegie
+6. The Almanack of Naval Ravikant — Eric Jorgenson
+7. So Good They Can't Ignore You — Cal Newport
+8. Essentialism: The Disciplined Pursuit of Less — Greg McKeown
+9. The Lean Startup — Eric Ries
+10. Start With Why — Simon Sinek
+
+
+---
+
+# Assignment 6. What are the things you will measure regularly in your life and career?
+
+### Rules
+
+List topics only. No need to share numbers.
+
+### Must Include
+
+* Learning / skill
+* Output / proof
+* Health / energy
+* Time / focus
+* Money / finance (personal or business)
+
+### Example
+
+* Learning hours per week
+* Deep work sessions per week
+* Projects shipped / documented
+* Steps / workouts
+* Sleep hours
+* Spending tracker
+
+## My Metrics
+
+* Learning hours per week
+* Technical skills practiced
+* DSA/problem-solving practice
+* Projects completed and shipped
+* GitHub contributions and activity
+* Certifications and courses completed
+* Deep-work sessions per week
+* Time spent on social media and other distractions
+* Sleep hours and overall energy
+* Monthly spending, savings, and financial progress
+
+---
+
+# Assignment 7. Brain Dump + 5-Month System Plan
+
+## Step 1: Brain Dump (Private)
+
+Do a brain dump of everything in your mind into a notebook.
+
+Examples:
+
+* Bills
+* Tasks
+* Worries
+* Goals
+* Pending messages
+* Ideas
+* Responsibilities
+
+### Did You Do It?
+
+**Yes / No**
+
+Answer:
+
+Yes
+
+I completed a private brain dump by writing down my current tasks, responsibilities, learning goals, career plans, pending work, project ideas, concerns, and other things that were occupying my mind. This helped me organize my thoughts and identify the areas that require regular attention.
+
+---
+
+## Step 2: Your 5-Month Routine + Focus Blocks
+
+Create a simple plan you can realistically follow for the next 5 months.
+
+### Weekly Routine
+
+Example:
+
+* Mon–Thu: 60 min deep work
+* Sat: DMI session
+* Sun: Weekly review
 
 #### My Weekly Routine
 
-Add your answer here...
+Monday–Friday:
 
-#### When Will I Complete My DMI Work? (Include Days and Time)
+Spend dedicated time on technical learning and skill development.
+Practice programming and problem-solving regularly.
+Work on DMI tasks and maintain proper documentation.
+Spend focused time developing or improving technical projects.
 
-Add your answer here...
+Saturday:
 
-#### How Many DMI Work Sessions Will I Complete Each Week?
+Complete the main DMI learning and assignment work.
+Work on cybersecurity, DevOps, or cloud-related projects.
+Update GitHub documentation and project progress.
 
-Add your answer here...
+Sunday:
+
+Review the week's progress.
+Complete unfinished tasks.
+Plan the upcoming week's priorities.
+Review learning progress and identify areas that need improvement.
+
+---
+
+### Focus Blocks
+
+#### When Will You Do DMI Work? (Days + Time)
+
+I will primarily work on DMI tasks on Saturday and Sunday from 7:00 PM to 9:00 PM. I will also use additional weekday sessions when an assignment or important task requires more time.
+
+#### How Many Sessions Per Week?
+
+4–5 focused sessions per week.
+
+---
+
+### Distraction Rules
+
+Examples:
+
+* Phone rules
+* Social media rules
+* Environment setup
 
 #### My Distraction Rules
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+Keep my phone away or on silent mode during focused study sessions.
+Avoid social media during DMI and technical learning sessions.
+Use Do Not Disturb mode during deep-work periods.
+Keep only the applications and browser tabs required for the current task open.
+Avoid switching between multiple tasks unnecessarily.
+Complete important work before spending time on entertainment.
+Set a clear objective before starting each study session.
+Take short breaks between long focus sessions instead of checking social media continuously.
+Review my progress at the end of each week and adjust my schedule when necessary.
 
 ---
 
-## Task 8 — Week 1 Reflection and Proof of Work
+# Reflection – Week 1
 
-### Biggest Insight I Got About Myself This Week
+### Biggest insight I got about myself this week
 
-Add your answer here...
+The biggest insight I got about myself is that I make better progress when I have a clear system instead of depending only on motivation. I realized that I have several goals related to cybersecurity, DevOps, projects, learning, and career development, but managing all of them requires proper planning and consistency. I also understood that practical work and measurable proof are important for turning knowledge into real skills.
 
-### My Biggest Weakness or Loop I Noticed
+### My biggest weakness/loop I noticed
 
-Add your answer here...
+My biggest weakness is that I sometimes try to work on multiple goals at the same time and can lose focus on the most important task. I also noticed that distractions and postponing tasks can reduce my consistency. Instead of waiting until I feel motivated, I need to follow a fixed routine and complete important tasks step by step.
 
-### One System I Will Implement From This Week (Exact Habit and Time)
+### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+From this week, I will follow a focused learning system where I spend 7:00 PM to 8:00 PM on weekdays on technical learning or DMI work. During this time, I will keep my phone away, avoid social media, and work on only one clearly defined task. At the end of each week, I will review what I completed and plan the priorities for the following week.
 
-### Proof of Work
+### LinkedIn Post
 
-**LinkedIn Post URL**
+Paste your LinkedIn post link here:
 
-```text
-Paste your LinkedIn post URL here...
-```
-
-**Blog / Medium / Public Article URL**
-
-```text
-Paste your published article URL here...
-```
+https://lnkd.in/p/dt59mcQv
 
 ---
 
-## Completion Checklist
+## 10. Proof of Work
 
-* [ ] All eight tasks are completed.
-* [ ] All written answers are honest, specific, and written in clear professional sentences.
-* [ ] Task 1 has at least 50 words.
-* [ ] Task 2 includes all three truths and evidence from my life.
-* [ ] Task 3 includes a 300+ word article written in past tense.
-* [ ] My Task 3 article is published on an approved public platform.
-* [ ] I added the correct DMI credit note and replaced `YOUR-GITHUB-USERNAME`.
-* [ ] I published a LinkedIn post sharing my Task 3 article.
-* [ ] Task 5 has 10 non-fiction books with titles and authors.
-* [ ] Task 6 includes learning, output, health, time, and finance metrics.
-* [ ] I completed the private brain dump for Task 7.
-* [ ] I added a realistic three-month routine, DMI focus blocks, and distraction rules.
-* [ ] I completed the Week 1 reflection.
-* [ ] I added both the LinkedIn post and public article URLs under Task 8.
+- LinkedIn Post URL: https://lnkd.in/p/dt59mcQv
+
+- Blog / Medium : https://medium.com/@mounikam1522006/-3eab89ee816e?postPublishedType=initial
 
 ---
-
 
 ## 📌 About DMI & CloudAdvisory
 
@@ -267,4 +421,4 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) — Agentic AI Track*
+*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track*
