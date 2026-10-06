@@ -132,7 +132,7 @@ This is not a course. It is an internship-style program — real deployments, re
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://lnkd.in/p/dKVDDuhK | https://medium.com/@mounikam1522006/-d877c56014d8 |
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | https://lnkd.in/p/dvbUDNWC | https://medium.com/@mounikam1522006/-3eab89ee816e?postPublishedType=initial |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
+| 02 | Agentic AI with Claude Code | 🔄 In Progress | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
