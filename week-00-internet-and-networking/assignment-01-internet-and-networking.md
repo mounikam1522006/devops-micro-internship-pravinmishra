@@ -59,7 +59,7 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When a user opens the EpicReads website from anywhere in the world, the request is divided into small units of data called packets. This process is called **packet switching**, and the packets can travel through different networks before reaching the server in Finland. The server has an **IP address**, which identifies it on the Internet and helps route the packets to the correct destination. TCP/IP provides the basic communication rules for transferring data reliably between the user's device and the server. At the application level, the browser uses HTTP or HTTPS to communicate with the EpicReads web server and request web pages and other resources. HTTPS is the secure version of HTTP because it encrypts the communication between the browser and server. Together, these technologies allow users worldwide to access EpicReads.
 
 ---
 
@@ -102,18 +102,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* React.js
+* HTML/CSS/JavaScript
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Spring Boot
+* Node.js / Express.js
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* PostgreSQL
+* MySQL
 
 ---
 
@@ -142,7 +142,7 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS (Domain Name System) translates human-readable domain names into IP addresses that computers can understand. Instead of remembering the IP address 52.172.142.222, users can simply enter epicreads.com in their browser. An **A record** should be used because it maps a domain name to an IPv4 address. Therefore, the A record for epicreads.com can point to 52.172.142.222. The :3000 part represents the application port and is not included in the DNS A record.
 
 ---
 
